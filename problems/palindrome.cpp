@@ -19,7 +19,6 @@
 			INPUT : ABCDEFABBA / OUTPUT : 4
 			INPUT : cake / OUTPUT : 0
 	
-
 	
 	- data
 		2017.10.05
@@ -33,7 +32,6 @@
 
 #include <string>
 #include <iostream>
-
 
 #define MAX(X,Y) ((X) > (Y) ? (X) : (Y))
 
@@ -58,5 +56,6 @@ int main(){
 		}
 	}
 	cout<<max_length;
+
 	return 0;
 }
