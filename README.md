@@ -1,5 +1,4 @@
-Algrotihm
-=========
+# Algroithm
 
-HAHA
------
+
+## This Repository for Algorithmic conception and problems.
