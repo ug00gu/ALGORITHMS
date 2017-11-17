@@ -37,7 +37,7 @@ int main(){
 				return 0;
 			}
 		}
-		cout<<"decending";
+		cout<<"descending";
 		break;
 
 		default :
